@@ -86,6 +86,7 @@
 - [Python Cookbook(第三版中文v3.0.0)](https://github.com/yidao620c/python3-cookbook) [(README)](/it/language-related/python/Python%20Cookbook(第三版中文v3.0.0).md)
 - [Python3 基础教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) [(README)](/it/language-related/python/Python3%20基础教程.md)
 - [Python编程：从入门到实践](https://book.douban.com/subject/26829016/) [(README)](/it/language-related/python/Python编程：从入门到实践.md)
+- [流畅的 Python](https://book.douban.com/subject/27028517/) [(README)](/it/language-related/python/流畅的%20Python.md)
 
 ### 其他
 
