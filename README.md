@@ -63,6 +63,7 @@
 #### 数据结构与算法
 
 - [算法图解](https://book.douban.com/subject/26979890/) [(README)](/it/language-independent/data-structure-and-algorithm/算法图解.md)
+- [程序员的算法趣题](https://book.douban.com/subject/27091348/) [(README)](/it/language-independent/data-structure-and-algorithm/程序员的算法趣题.md)
 
 #### 编程艺术
 
