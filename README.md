@@ -88,6 +88,7 @@
 - [Python编程：从入门到实践](https://book.douban.com/subject/26829016/) [(README)](/it/language-related/python/Python编程：从入门到实践.md)
 - [流畅的 Python](https://book.douban.com/subject/27028517/) [(README)](/it/language-related/python/流畅的%20Python.md)
 - [Python Web开发实战](https://book.douban.com/subject/26852057/) [(README)](/it/language-related/python/Python%20Web开发实战.md)
+- [Flask Web开发：基于Python的Web应用开发实战](https://book.douban.com/subject/26274202/) [(README)](/it/language-related/python/Flask%20Web开发：基于Python的Web应用开发实战.md)
 
 ### 其他
 
