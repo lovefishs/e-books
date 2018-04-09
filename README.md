@@ -87,6 +87,7 @@
 - [Python3 基础教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) [(README)](/it/language-related/python/Python3%20基础教程.md)
 - [Python编程：从入门到实践](https://book.douban.com/subject/26829016/) [(README)](/it/language-related/python/Python编程：从入门到实践.md)
 - [流畅的 Python](https://book.douban.com/subject/27028517/) [(README)](/it/language-related/python/流畅的%20Python.md)
+- [Python Web开发实战](https://book.douban.com/subject/26852057/) [(README)](/it/language-related/python/Python%20Web开发实战.md)
 
 ### 其他
 
