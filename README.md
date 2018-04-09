@@ -45,6 +45,7 @@
 - [Linux 就该这么学](https://www.linuxprobe.com/docs/LinuxProbe.pdf) [(README)](/it/language-independent/os/Linux%20就该这么学.md)
 - [鳥哥的 Linux 私房菜基础篇](http://linux.vbird.org/linux_basic/) [(README)](/it/language-independent/os/鳥哥的%20Linux%20私房菜基础篇.md)
 - [笨办法学 Linux 中文版](https://www.gitbook.com/book/wizardforcel/llthw/details) [(README)](/it/language-independent/os/笨办法学%20Linux%20中文版.md)
+- [Docker 从入门到实践(v0.9.1)](https://www.gitbook.com/book/yeasy/docker_practice/details) [(README)](/it/language-independent/os/Docker%20从入门到实践(v0.9.1).md)
 
 #### 编译原理
 
