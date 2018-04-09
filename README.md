@@ -52,6 +52,7 @@
 #### 编译原理
 
 - [计算机程序的构造和解释(SICP中文第2版)](https://github.com/DeathKing/Learning-SICP) [(README)](/it/language-independent/compiling-principle/计算机程序的构造和解释(SICP中文第2版).md)
+- [计算机程序的构造和解释(SICP Python描述)](https://www.gitbook.com/book/wizardforcel/sicp-py/details) [(README)](/it/language-independent/compiling-principle/计算机程序的构造和解释(SICP%20Python描述).md)
 
 #### 网络协议
 
