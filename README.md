@@ -69,7 +69,7 @@
 
 #### 编程艺术
 
-
+- [编程珠玑(第2版：修订版)](https://book.douban.com/subject/26302533/) [(README)](/it/language-independent/art-of-programming/编程珠玑(第2版：修订版).md)
 
 ### 语言相关
 
