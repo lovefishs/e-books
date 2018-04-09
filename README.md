@@ -58,6 +58,7 @@
 
 - [HTTP 权威指南](https://book.douban.com/subject/10746113/) [(README)](/it/language-independent/network-protocol/HTTP%20权威指南.md)
 - [图解 HTTP](https://book.douban.com/subject/25863515/) [(README)](/it/language-independent/network-protocol/图解%20HTTP.md)
+- [HTTP2 讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details) [(README)](/it/language-independent/network-protocol/HTTP2%20讲解.md)
 
 #### 数据结构与算法
 
