@@ -41,6 +41,7 @@
 #### 操作系统
 
 - [开源世界旅行手册](https://i.linuxtoy.org/docs/guide/index.html) [(README)](/it/language-independent/os/os-world-trip.md)
+- [深入理解计算机系统(第3版)](https://book.douban.com/subject/1230413/) [(README)](/it/language-independent/os/深入理解计算机系统(第3版).md)
 
 #### 编译原理
 
