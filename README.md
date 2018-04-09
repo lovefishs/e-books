@@ -76,6 +76,7 @@
 #### CSS
 
 - [CSS权威指南(第三版)](https://book.douban.com/subject/2308234/) [(README)](/it/language-related/css/CSS权威指南(第三版).md)
+- [CSS揭秘](https://book.douban.com/subject/26745943/) [(README)](/it/language-related/css/CSS揭秘.md)
 
 #### Python
 
