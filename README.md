@@ -47,7 +47,7 @@
 - [笨办法学 Linux 中文版](https://www.gitbook.com/book/wizardforcel/llthw/details) [(README)](/it/language-independent/os/笨办法学%20Linux%20中文版.md)
 - [Docker 从入门到实践(v0.9.1)](https://www.gitbook.com/book/yeasy/docker_practice/details) [(README)](/it/language-independent/os/Docker%20从入门到实践(v0.9.1).md)
 - [Kubernetes 中文指南：云原生应用架构实践手册(v1.2)](https://github.com/rootsongjc/kubernetes-handbook) [(README)](/it/language-independent/os/Kubernetes%20中文指南：云原生应用架构实践手册(v1.2).md)
-- [区块链技术指南(v1.0.1)](https://www.gitbook.com/book/yeasy/blockchain_guide/details) [(README)](/it/language-independent/os/区块链技术指南(v1.0.1.md)
+- [区块链技术指南(v1.0.1)](https://www.gitbook.com/book/yeasy/blockchain_guide/details) [(README)](/it/language-independent/os/区块链技术指南(v1.0.1).md)
 
 #### 编译原理
 
