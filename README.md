@@ -89,6 +89,7 @@
 - [流畅的 Python](https://book.douban.com/subject/27028517/) [(README)](/it/language-related/python/流畅的%20Python.md)
 - [Python Web开发实战](https://book.douban.com/subject/26852057/) [(README)](/it/language-related/python/Python%20Web开发实战.md)
 - [Flask Web开发：基于Python的Web应用开发实战](https://book.douban.com/subject/26274202/) [(README)](/it/language-related/python/Flask%20Web开发：基于Python的Web应用开发实战.md)
+- [Python绝技：运用Python成为顶级黑客](https://book.douban.com/subject/26702570/) [(README)](/it/language-related/python/Python绝技：运用Python成为顶级黑客.md)
 
 ### 其他
 
