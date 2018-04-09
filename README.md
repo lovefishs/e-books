@@ -83,7 +83,7 @@
 
 #### Python
 
-
+- [Python Cookbook(第三版中文v3.0.0)](https://github.com/yidao620c/python3-cookbook) [(README)](/it/language-related/python/Python%20Cookbook(第三版中文v3.0.0).md)
 
 ### 其他
 
