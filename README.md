@@ -96,6 +96,7 @@
 
 - [Go语言圣经(中文版)](https://legacy.gitbook.com/book/yar999/gopl-zh/details) [(README)](/it/language-related/go/Go语言圣经(中文版).md)
 - [Go语言实战](https://book.douban.com/subject/27015617/) [(README)](/it/language-related/go/Go语言实战.md)
+- [Go语言编程](https://book.douban.com/subject/11577300/) [(README)](/it/language-related/go/Go语言编程.md)
 
 ### 其他
 
